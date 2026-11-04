@@ -1,0 +1,11 @@
+{
+  "name": "Tether USD Bridged ZED20",
+  "symbol": "USDT.z",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Token BEP-20 colateralizado por reserva on-chain en BNB Smart Chain.",
+  "website": "https://tether-usd-bridged-zed20.shop",
+  "explorer": "https://bscscan.com/token/0x4b10082996d81d3d6dAD5Ba3b13AC9eB47843db4",
+  "status": "active",
+  "id": "0x4b10082996d81d3d6dAD5Ba3b13AC9eB47843db4"
+}
